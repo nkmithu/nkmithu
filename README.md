@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
 
 
-## Contact with me
+## Connect with me
 
 [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/nure-kamal-mithu-98b333105/)
  [<img src="https://img.shields.io/badge/<handle>%20-%2300AFF0.svg?&style=for-the-badge&logo=Skype&logoColor=white"/>](https://join.skype.com/invite/vHOJg3VIedB7) [<img src="https://camo.githubusercontent.com/76cc2e89b7bdab5d47535ce69a90787ce9359bcd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f486173686e6f64652d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d486173686e6f6465266c6f676f436f6c6f723d7768697465"/>](https://nkmithu.com/)
