@@ -1,7 +1,12 @@
+<a href="https://nkmithu.com/" rel="some text">![Foo](https://i.ibb.co/zGS2nFd/100x130.png)</a>
+
 # Hi, I am Nure Kamal Mithu
 #### Full stack Developer | Web App Developer | Tech Blogger
 
 ###### Always want to do creative, live creative. Enjoy doing challenging stuff that inspires me, delight me, satisfy me. Love programming a lot!
+
+## Get into my brain with my blog!
+ [<img src="https://camo.githubusercontent.com/76cc2e89b7bdab5d47535ce69a90787ce9359bcd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f486173686e6f64652d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d486173686e6f6465266c6f676f436f6c6f723d7768697465"/>](https://nkmithu.com/)
 
 ## My tech stack
 
